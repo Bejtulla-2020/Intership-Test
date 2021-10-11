@@ -1,0 +1,73 @@
+
+body{
+    background: #6470631A 10%;
+}
+#logo{
+    position:absolute;
+    width:196px;
+    height:77px;
+    left:150px;
+    top:64px;
+    
+    }
+#content{
+    position: absolute;
+    float: left;
+    
+    width:832px;
+    height:900px;
+    padding-left: 150px;
+    padding-top: 237px;
+    font-family: sans-serif;
+    color:#644D38;
+    font-size: 16px;
+    line-height: 24px;
+    
+}
+#photo{
+    position:absolute;
+    float:right;
+    height:900px;
+    left:832px;
+    top:0px;
+    background:#C4C4C4;
+}
+h1{
+    
+    font-family:sans-serif;
+    color: #644D38;
+    font-size:64px;
+    letter-spacing:0.15em;
+    font-weight: normal;
+    line-height: 75px;
+   
+}
+h2{
+    
+    font-family:sans-serif;
+    color: #644D38;
+    font-size:64px;
+    letter-spacing:0.15em;
+    font-weight: bold;
+    line-height: 75px;
+}
+#Email{
+    
+    width:288px;
+    height:52px;
+    left:160px;
+    top:651px;
+    border: 1px solid #644d38;
+    box-sizing: border-box;
+    border-radius: 8px 0px 0px 8px;
+}
+#Submit{
+    width:113px;
+    height:52px;
+    left:488px;
+    top:651px;
+    background: #644D38;
+    color:white;
+    box-sizing: border-box;
+    border-radius: 0px 8px 8px 0px;
+}
